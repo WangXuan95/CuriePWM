@@ -8,7 +8,7 @@ Use Timer1 on Curie to PWM on any pins,this library can't work together with Cur
 
 1. clone this repo
 
-2. move CuriePWM Directory to <Arduino Directory>/libraries
+2. move CuriePWM Directory to [Arduino Directory]/libraries
 
 3. In Arduino IDE, open an example in file->examples->CuriePWM
 
